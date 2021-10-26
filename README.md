@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aqsajimmy
+- :man_technologist: I'm currently working as Computer Technician
 - 👀 I’m interested in Website and Desktop Programing
 - 🌱 I’m currently learning Back-end and Front-end Development
 - 💞️ I’m looking to collaborate on any Website Projects
