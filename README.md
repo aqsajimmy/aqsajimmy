@@ -1,4 +1,4 @@
-@OSSDAO-ORG•AIRDROP-0xc1296D383992EE60dF9F2FC11102c3c203Bc4EDc
+
 <h1 align="center">Hi 👋, I'm Aqsa Jimmy</h1>
 <h3 align="center">a man who think that he passionate in web developer</h3>
 
