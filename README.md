@@ -53,4 +53,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aqsajimmy&show_icons=true&locale=en&layout=compact" alt="aqsajimmy" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aqsajimmy&" alt="aqsajimmy" /></p>
 
-<p><img align="left" src="https://www.codewars.com/users/aqsajimmy/badges/large" alt="aqsajimmy" /></p>
+<p><img align="left" src="https://www.codewars.com/users/aqsajimmy/badges/micro" alt="aqsajimmy" /></p>
