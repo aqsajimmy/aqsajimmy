@@ -9,7 +9,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsajimmy" alt="aqsajimmy" /></a> </p> -->
 
 - 👨‍💻 I’m currently working as [IT Staff](https://bprrangkiangaurdenai.com)
-- 
+  
 - 👨‍💻 I’m currently working as [Web Dev](https://pwcreturn.com)
 
 - 🌱 I’m currently using **Laravel, Livewire, Tailwind**
