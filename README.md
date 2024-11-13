@@ -8,25 +8,23 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsajimmy" alt="aqsajimmy" /></a> </p> -->
 
-- 👨‍💻 I’m currently working as [Computer Technician](https://imediacomputer.com)
+- 👨‍💻 I’m currently working as [IT Staff](https://bprrangkiangaurdenai.com)
+- 
+- 👨‍💻 I’m currently working as [Web Dev](https://pwcreturn.com)
 
-- 🌱 I’m currently learnin **Laravel, Vue, Tailwind**
+- 🌱 I’m currently using **Laravel, Livewire, Tailwind**
 
 - 👀 I’m interested in **Website and Desktop Programing**
 
 - 🤝 I’m looking to collaborate on **any Website Projects**
 
-- 👨‍💻 All of my projects are available at [https://aqsajim.my.id/project](https://aqsajim.my.id/project)
+- 👨‍💻 All of my projects are available at [https://jimx.dev](https://jimx.dev)
 
-- 📝 I regularly write articles on [https://aqsajim.my.id/blog](https://aqsajim.my.id/blog)
+- 📝 I regularly write articles on [https://jimx.dev/blog](https://jimx.dev/blog)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **hello@aqsajim.my.id**
-
-- 📄 Know about my experiences [https://aqsajim.my.id/resume](https://aqsajim.my.id/resume)
-
-- ⚡ Fun fact **sometimes i skateboard**
+- ⚡ Fun fact **Sometimes, I skateboard.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -42,7 +40,7 @@
 <a href="https://dribbble.com/aqsajimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aqsajimmy" height="30" width="40" /></a>
 <a href="https://www.behance.net/aqsajimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aqsajimmy" height="30" width="40" /></a>
 <a href="https://medium.com/@aqsajimmy.gov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aqsajimmy.gov" height="30" width="40" /></a>
-<a href="/https://aqsajim.my.id/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://aqsajim.my.id/rss" height="30" width="40" /></a>
+<a href="/https://jimx.dev/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jimx.dev/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
