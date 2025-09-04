@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aqsa Jimmy</h1>
+<h1 align="center">~ root@jimx.dev</h1>
 
 ```php
 public $name, $company, $position, $porto, $email;
