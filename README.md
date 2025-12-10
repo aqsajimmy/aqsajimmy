@@ -13,6 +13,6 @@ public function mount()
     }
 ```
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&color=33FF33&center=true&vCenter=true&lines=~+root%40jimx.dev;System+Online;Execute+Dreams.sh">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/forbidd3n.png" alt="Your Image Badge" />
 </h1>
-<p align="center"><sub><em>Authenticated as forbidd3n@localhost</em></sub></p>
+<p align="center"><sub><em>Authenticated as forbidd3n</em></sub></p>
