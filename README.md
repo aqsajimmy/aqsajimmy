@@ -6,8 +6,8 @@ public $name, $company, $position, $porto, $email;
 public function mount()
     {
         $this->name = 'Aqsa Jimmy';
-        $this->company = 'PT. BPR Rangkiang Aur Denai';
-        $this->position = 'IT & Reporting';
+        $this->company = 'Self-Employee';
+        $this->position = 'Software Engineer';
         $this->porto = 'https://jimx.dev';
         $this->email = 'hello@jimx.dev';
     }
